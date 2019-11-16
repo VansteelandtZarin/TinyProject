@@ -1,0 +1,7 @@
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\bin\Debug\netstandard2.0\TinyProject.deps.json
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\bin\Debug\netstandard2.0\TinyProject.dll
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\obj\Debug\netstandard2.0\TinyProject.csprojAssemblyReference.cache
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\obj\Debug\netstandard2.0\TinyProject.AssemblyInfoInputs.cache
+D:\DeviceProgramming2\TinyProject\TinyProject\TinyProject\obj\Debug\netstandard2.0\TinyProject.AssemblyInfo.cs
